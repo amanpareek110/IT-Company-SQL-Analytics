@@ -126,6 +126,49 @@ The analysis progresses from basic SQL queries to advanced business analysis usi
 
 ## 📊 Key Project Insights
 
+## 📸 Query Results & Analysis Screenshots
+
+The following screenshots highlight key SQL analysis results from the project.
+
+### 👥 Employee & Workforce Analysis
+
+Shows the distribution of employees across the four IT companies.
+
+![Employee Analysis](screenshots/employee-analysis.png)
+
+---
+
+### 💰 Project & Budget Analysis
+
+Shows project count, total project budget, and average project budget by company.
+
+![Project Analysis](screenshots/project-analysis.png)
+
+---
+
+### 💻 Technology Analysis
+
+Shows project distribution and total project budgets across different technologies.
+
+![Technology Analysis](screenshots/technology-analysis.png)
+
+---
+
+### 📈 Financial Performance Analysis
+
+Shows total revenue, total profit, and profit margin for each company.
+
+![Financial Analysis](screenshots/financial-analysis.png)
+
+---
+
+### 🏢 Overall Company Performance
+
+Combines workforce, project, project budget, revenue, and profit metrics to provide an overall company-level view.
+
+![Company Performance](screenshots/company-performance.png)
+
+
 ### 👥 Workforce
 
 * The dataset contains **250,000 employees** across four companies:
