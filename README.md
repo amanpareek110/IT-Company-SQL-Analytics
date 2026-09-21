@@ -300,9 +300,7 @@ IT-Company-SQL-Analytics/
     ├── technology-analysis.png
     ├── financial-analysis.png
     └── company-performance.png
-```
 
-> The `data/` and `screenshots/` folders should be included if the corresponding files are available.
 
 ---
 
